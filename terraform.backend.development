@@ -1,0 +1,4 @@
+bucket  = "terraform-devthenet" # Change to the bucket you created in s3
+key     = "env/nginx-reverse/terraform.tfstate"
+region  = "us-west-2" # Change to your region
+profile = "devthenet" # Change to your profile
